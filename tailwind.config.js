@@ -8,6 +8,7 @@ module.exports = {
         "290px": "290px",
         "396px": "396px",
         "500px": "500px",
+        "640px": "640px",
         "980px": "980px",
       },
       fontSize: { subtitle: "1.7rem" },
